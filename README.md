@@ -10,4 +10,4 @@ Other accessories were necessary for operation.  An Amazon order consisting of S
 
 One need still remained: a screen.  For the fun of it, I devised a little project to create a wireless remote device that could receive video feed wirelessly from the camera, whilst also being able to send commands to camera wirelessly as well.  Video would be transmitted via one of those cheap AV transmitters used in automobiles, and the camera commands would be communicated using an xbee, with an Arduino Mini.
 
-In consideration for getting things to work first, however, I am creating a simple video mount atop the camera body that takes in a wired video source.  The wireless capabilities will be implemented later.
+In consideration for getting things to work first, however, I am creating a simple video mount atop the camera body that takes in a wired video source.  The remote and the wireless capabilities will be implemented later.
